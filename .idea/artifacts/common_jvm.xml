@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="common-jvm">
+    <output-path>C:\Users\Loza\Desktop\KOTLIN MULTIPLATFORM\KotlinMultiplatformExample\common\build\libs</output-path>
+    <root id="archive" name="common-jvm.jar" />
+  </artifact>
+</component>
