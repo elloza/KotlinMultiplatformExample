@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KotlinMultiplatformExample.iml" filepath="$PROJECT_DIR$/KotlinMultiplatformExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-app/android-app.iml" filepath="$PROJECT_DIR$/android-app/android-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildSrc/buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common_commonMain.iml" filepath="$PROJECT_DIR$/common/common_commonMain.iml" group="common" />
+      <module fileurl="file://$PROJECT_DIR$/common/common_commonTest.iml" filepath="$PROJECT_DIR$/common/common_commonTest.iml" group="common" />
+      <module fileurl="file://$PROJECT_DIR$/common/common_iosMain.iml" filepath="$PROJECT_DIR$/common/common_iosMain.iml" group="common" />
+      <module fileurl="file://$PROJECT_DIR$/common/common_iosTest.iml" filepath="$PROJECT_DIR$/common/common_iosTest.iml" group="common" />
+      <module fileurl="file://$PROJECT_DIR$/common/common_jsMain.iml" filepath="$PROJECT_DIR$/common/common_jsMain.iml" group="common" />
+      <module fileurl="file://$PROJECT_DIR$/common/common_jsTest.iml" filepath="$PROJECT_DIR$/common/common_jsTest.iml" group="common" />
+      <module fileurl="file://$PROJECT_DIR$/common/common_jvmMain.iml" filepath="$PROJECT_DIR$/common/common_jvmMain.iml" group="common" />
+      <module fileurl="file://$PROJECT_DIR$/common/common_jvmTest.iml" filepath="$PROJECT_DIR$/common/common_jvmTest.iml" group="common" />
+      <module fileurl="file://$PROJECT_DIR$/javafx-app/javafx-app.iml" filepath="$PROJECT_DIR$/javafx-app/javafx-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/js-app/js-app.iml" filepath="$PROJECT_DIR$/js-app/js-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-app/spring-boot-app.iml" filepath="$PROJECT_DIR$/spring-boot-app/spring-boot-app.iml" />
+    </modules>
+  </component>
+</project>
